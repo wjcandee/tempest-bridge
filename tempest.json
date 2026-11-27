@@ -1,7 +1,7 @@
 {
   "station_id": 221786,
   "source": "WeatherFlow Tempest",
-  "updated_at": "2026-11-26T10:58:07.734Z",
+  "updated_at": "2026-11-27T10:58:07.642Z",
   "history": [
     {
       "date": "2026-09-20",
@@ -605,6 +605,15 @@
       "high_low_mean_f": 39.4,
       "hdd65_high_low": 25.6,
       "hdd65_actual_avg": 24.7
+    },
+    {
+      "date": "2026-11-26",
+      "high_f": 52.2,
+      "low_f": 41.9,
+      "actual_avg_f": 44.6,
+      "high_low_mean_f": 47,
+      "hdd65_high_low": 18,
+      "hdd65_actual_avg": 20.4
     }
   ]
 }
